@@ -1,0 +1,10 @@
+alias gst git status
+alias more view-file $1
+alias less view-file $1
+alias pk eshell-up-peek $1
+alias up eshell-up $1
+alias l. ls -dh .*
+alias ll ls -alh
+alias d dired $1
+alias fo find-file-other-window $1
+alias ff find-file $1
